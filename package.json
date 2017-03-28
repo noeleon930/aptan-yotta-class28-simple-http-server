@@ -1,0 +1,22 @@
+{
+  "name": "aptan-yotta-class28-simple-http-server",
+  "version": "0.0.1",
+  "description": "Aptan X Yotta 第28課 heroku 部署小例",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noeleon930/aptan-yotta-class28-simple-http-server.git"
+  },
+  "author": "NoelBao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noeleon930/aptan-yotta-class28-simple-http-server/issues"
+  },
+  "homepage": "https://github.com/noeleon930/aptan-yotta-class28-simple-http-server#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
